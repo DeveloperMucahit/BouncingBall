@@ -20,7 +20,7 @@ A React Native application that demonstrates a bouncing ball animation with a bo
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/BouncingBall.git](https://github.com/DeveloperMucahit/BouncingBall)
+git clone https://github.com/DeveloperMucahit/BouncingBall
 cd BouncingBall
 ```
 
